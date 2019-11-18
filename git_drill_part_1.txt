@@ -1,0 +1,4 @@
+1.Create directory called git-sample-project and cd to git-sample-project
+2. Initilize git repo
+3. Create following file a.txt,b.txt,c.txt
+
